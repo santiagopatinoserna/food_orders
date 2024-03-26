@@ -3,6 +3,7 @@
 This Jupyter notebook is an exploration of the "food-online-orders" dataset from Kaggle. It performs a visual analysis of online food ordering data, focusing on distributions by gender, age group, monthly income, and the ordering frequency in relation to individuals' occupation.
 
 [Link to the dataset](https://www.kaggle.com/datasets/sudarshan24byte/online-food-dataset/data)
+
 [Link to the notebook](https://github.com/santiagopatinoserna/food_orders/blob/main/Code/exploration.ipynb)
 
 ## Key insights 
@@ -17,7 +18,6 @@ Are you interested in data analysis, Power BI, making predictions with machine l
 Book a quick chat on my calendar, and let's make it happen.
 📅👉 Calendly: [https://lnkd.in/ez8Y2D-4](https://lnkd.in/ez8Y2D-4)
 
-Datasets: [https://lnkd.in/d4tEN5-r](https://lnkd.in/d4tEN5-r)
 
 ## Key Features
 
